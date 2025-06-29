@@ -44,10 +44,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+    <a href="https://www.loom.com/share/812ca92e46344ee490441993d2851dc7">
+      <p>Veni Week5 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/812ca92e46344ee490441993d2851dc7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/812ca92e46344ee490441993d2851dc7-446c7a79e86ba996-full-play.gif">
+    </a>
+  </div>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -55,7 +62,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Banning logic took me a while considering I had two ideas of how banning should actually work.
 
 ## License
 
